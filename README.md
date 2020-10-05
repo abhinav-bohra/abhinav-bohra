@@ -34,9 +34,10 @@
 <!-- <details> -->
 
 ### :zap: Github Stats
+
 <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhinav-bohra&show_icons=true&hide_border=true&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-bohra&layout=compact)](https://github.com/abhinav-bohra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-bohra&layout=compact)](https://github.com/abhinav-bohra/github-readme-stats)
 
 <!-- </details> -->
 
