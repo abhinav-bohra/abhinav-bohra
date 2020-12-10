@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/abhinav-bohra/abhinav-bohra/Hero.png" alt="Hero image">
-
+<img src="https://raw.githubusercontent.com/abhinav-bohra/abhinav-bohra/main/Hero.png" alt="Hero image">
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
 Here's a list of things I currently keep myself busy with:
