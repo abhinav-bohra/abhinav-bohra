@@ -4,20 +4,11 @@ I like experimenting with new technologies, building small projects, and occassi
 Here's a list of things I currently keep myself busy with:
 
 - 👩🏻‍💻 Studying Computer Science & Engineering at **[IIT Kharagpur](http://www.iitkgp.ac.in/)**
-- ☀️ Maintaining **[Letra](https://github.com/abhinav-bohra/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/abhinav-bohra)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
 
 <details>
   <summary>Some other facts about me-e-e</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
-
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/abhinav-bohra)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
-  
-
+ 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=abhinav-bohra&show_icons=true&theme=nord)
   <br><br>
 </details>
