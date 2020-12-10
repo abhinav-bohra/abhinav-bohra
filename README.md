@@ -3,7 +3,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 Here's a list of things I currently keep myself busy with:
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
+- 👩🏻‍💻 Studying Computer Science at IIT Kharagpur **[Rounded](https://rounded.io)**
 - ☀️ Maintaining **[Letra](https://github.com/abhinav-bohra/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/abhinav-bohra)**.
 - 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
