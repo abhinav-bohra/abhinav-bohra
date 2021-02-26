@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.gif" width="1380px" height="280px"></p>
-<p align="center">
+
+<h2 align="left">Hi 👋, I'm Abhinav</h1>
+<p align="right">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 <h3 align="right">Connect with me :</h3>
@@ -23,5 +25,4 @@
 </a>
 <br/>
 <br/>
-<h2 align="center">Hi 👋, I'm Chiraag Kakar</h1>
 
