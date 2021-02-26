@@ -4,6 +4,13 @@
 <p align="right">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
+
+- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
+- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
+- 💬 Ask me about microservices, microfrontends and cloud services
+- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My favourite anime is "Naruto"
 <h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/chiraag-kakar">
   <img align="right" alt="Chiraag Kakar - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
@@ -54,12 +61,6 @@
 
 ## Trivia:
 
-- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
-- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
-- 💬 Ask me about microservices, microfrontends and cloud services
-- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My favourite anime is "Naruto"
 
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
