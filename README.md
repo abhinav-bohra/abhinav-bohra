@@ -26,3 +26,42 @@
 <br/>
 <br/>
 
+## Tools
+
+<p align="left">
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="angular-js" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/svelte.svg" alt="svelte" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gulp.svg" alt="gulp" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/csharp.svg" alt=".NET" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nodejs_alt.svg" alt="nodejs" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/nginx.svg" alt="nginx" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/cucumber.svg" alt="cucumber" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/netlify.svg" alt="netlify" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/heroku.svg" alt="heroku" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/circleci_light.svg" alt="circleci" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-aws.svg" alt="aws" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/gcp.svg" alt="gcp" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/azure.svg" alt="azure" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/docker.svg" alt="Docker" width="25" height="25" />
+<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/folder-kubernetes.svg" alt="Kubernetes" width="25" height="25" />
+</p>
+
+## Trivia:
+
+- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
+- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
+- 💬 Ask me about microservices, microfrontends and cloud services
+- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My favourite anime is "Naruto"
+
+<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
+
+<br/><br/><br/><br/>
+**[Visit my website &rarr;](https://murshidazher.com/)**
