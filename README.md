@@ -2,6 +2,7 @@
 
 <h2 align="left">Heya 👋, I'm Abhinav</h2>
 <!--Intro Section-->
+<p>
 <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="220px" align="right">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Studying Computer Science & Engineering at IIT Kharagpur.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Intrested in Artificial Intelligence & Software Development.<br>
