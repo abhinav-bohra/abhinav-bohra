@@ -27,8 +27,8 @@
 ## My Tech Stack
 <p align="left">
 	<h4> Programming Lanauges</h4><p>
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icon/c.svg" alt="C" width="25" height="25" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icon/cpp.svg" alt="C++" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/c.svg" alt="C" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cpp.svg" alt="C++" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/cpp.svg" alt="C++" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
