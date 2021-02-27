@@ -2,13 +2,13 @@
 
 <h2 align="left">Hi 👋, I'm Abhinav</h2>
 <!--Intro Section-->
-<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="180px" align="right">
+<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="220px" align="right">
 
-- I’m a third year CSE undergrad at IIT Kharagpur.
+- I’m a third year undergrad at IIT Kharagpur studying Computer Science & Engineering.
 - I'm interseted in the intersection of the fields of Artificial Intelligence & Software Development.
 - When not coding, I like to make EDM 
 - If you are a Manchester United fan, we are already friends. GGMU :)
-- Here's a brief list of my previous work experiences in boring Arial font with font-size =14 (Resume) 
+- Here's a brief list of my previous work experiences in boring Arial font with font-size=14 (Resume) 
 
 
 <!--Connect Section-->
