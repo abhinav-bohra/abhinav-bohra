@@ -4,12 +4,8 @@
 <!--Intro Section-->
 <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" align="right">
 
-- 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
-- 🌱 I’m currently learning: AWS, Microservices and Microfrontends
-- 💬 Ask me about microservices, microfrontends and cloud services
-- 📫 How to reach me: [Email](hello@murshidazher.com), [Twitter](https://twitter.com/murshidazher)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My favourite anime is "Naruto"
+- 🔭 I’m a third year undergrad pursuing Bachelors & Masters in Computer Science & Engineering at IIT Kharagpur.
+- 🌱 My interests are Machine Learning, Deep Learning, NLP and Software Development
 
 <!--Connect Section-->
 <h3 align="right">Connect with me :</h3>
