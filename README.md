@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" align="right">
 
-- 🔭 I’m a third year undergrad pursuing Bachelors & Masters in Computer Science & Engineering at IIT Kharagpur.
+- 🔭 I’m a third year CSE undergrad at IIT Kharagpur.
 - 🌱 My interests are Machine Learning, Deep Learning, NLP and Software Development
 
 <!--Connect Section-->
