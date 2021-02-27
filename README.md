@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/abhinav.gif" width="1380px" height="280px"></p>
+<!--p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/abhinav.gif" width="1380px" height="280px"></p-->
 
 <h2 align="left">Hi 👋, I'm Abhinav</h2>
 <!--Intro Section-->
