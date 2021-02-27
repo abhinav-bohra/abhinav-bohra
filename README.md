@@ -48,7 +48,7 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;</p>
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.svg" alt="Jupyter" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
