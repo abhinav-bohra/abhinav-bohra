@@ -5,11 +5,11 @@
 <img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" align="right">
 
 - 🔭 I’m a third year CSE undergrad at IIT Kharagpur.
-- 🌱 My interests are Machine Learning, Deep Learning, NLP and Software Development
-- &nbsp;
-- &nbsp;
-- &nbsp;
-- &nbsp;
+- 🌱 I'm interseted in the intersection Artificial Intelligence & Software Development.
+-  When not coding, I like to make EDM 
+-  If you are a Manchester United fan, we are already friends. GGMU :)
+-  Here's my previous experiences in boring Arial font with font-size =14 ;))
+
 
 <!--Connect Section-->
 <h3 align="right">Connect with me :</h3>
