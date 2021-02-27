@@ -1,8 +1,8 @@
-<!--p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/abhinav.gif" width="1380px" height="280px"></p-->
+<p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="280px"></p>
 
 <h2 align="left">Hi 👋, I'm Abhinav</h2>
 <!--Intro Section-->
-<img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="220px" align="right">
+<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="220px" align="right">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Studying Computer Science & Engineering at IIT Kharagpur.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interseted in Artificial Intelligence & Software Development.<br>
@@ -71,8 +71,8 @@
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
 	</a>
 
+<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </p>
 
-<img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
