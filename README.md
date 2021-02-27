@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;I'm interseted in the intersection of the fields of Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;When not coding, I like to make EDM :metal:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;Here's more about my previous work experiences in boring Arial font with font-size=14 (Resume) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;Here's more about my previous work experiences in boring Arial font with font-size=14 (Resume) <br><br><br><br>
 
 
 <!--Connect Section>
@@ -54,7 +54,7 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
 </p>
-
+<br><br>
 <!--Trivia Section-->
 <hr>
 <p align="center">
@@ -62,13 +62,13 @@
 
 <p align="center">
 	<a href="https://linkedin.com/in/abhinav-bohra">
-		<img alt="Abhinav Bohra - LinkedIn" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
+		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
 	<a href="https://instagram.com/abhinavbohra01">
-		<img alt="Abhinav Bohra - Instagram" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
+		<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
 	</a>
 	<a href="https://facebook.com/abhinavbohra01">
-		<img alt="Abhinav Bohra - Facebook" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
+		<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
 	</a>
 
 </p>
