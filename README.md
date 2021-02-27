@@ -29,6 +29,7 @@
 	<h4> Programming Lanauges</h4><p>
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/c.svg" alt="C" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/cpp.svg" alt="C++" width="25" height="25" />&nbsp;
+	<img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667">
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
