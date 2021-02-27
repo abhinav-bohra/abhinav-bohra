@@ -14,13 +14,13 @@
 <!--Connect Section-->
 <h3 align="right">Connect with me :</h3>
 <a href="https://linkedin.com/in/abhinav-bohra">
-	<img align="right" alt="Abhinav Bohra - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+	<img align="right" alt="Abhinav Bohra - LinkedIn" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 </a>
 <a href="https://instagram.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+	<img align="right" alt="Abhinav Bohra - Instagram" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
 </a>
 <a href="https://facebook.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+	<img align="right" alt="Abhinav Bohra - Facebook" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
 </a>
 
 <!--Skills Section-->
@@ -32,11 +32,11 @@
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sql.svg" alt="SQL" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/sql.svg" alt="SQL" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/uml.svg" alt="UML" width="25" height="25" />&nbsp;</p>	
 	<h4> Frameworks</h4><p>
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/django.svg" alt="Django" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/flask.svg" alt="Flask" width="25" height="25" />&nbsp;
+	<img src="https:https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Scikit Learn" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="TensorFlow" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Keras" width="25" height="25" />&nbsp;
