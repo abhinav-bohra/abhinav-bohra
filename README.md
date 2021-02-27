@@ -1,9 +1,6 @@
 <p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/abhinav.gif" width="1380px" height="280px"></p>
 
-<h2 align="left">Hi 👋, I'm Abhinav</h1>
-<p align="right">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
+<h2 align="left">Hi 👋, I'm Abhinav</h2>
 
 - 🔭 I’m currently working on: [murshid](https://github.com/murshidazher/murshid), [trostcss](https://github.com/murshidazher/trostcss)
 - 🌱 I’m currently learning: AWS, Microservices and Microfrontends
@@ -30,9 +27,10 @@
 <a href="https://facebook.com/0212Chiraag">
   <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
-<br/>
-<br/>
 
+<p align="right">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
 ## Tools
 
 <p align="left">
