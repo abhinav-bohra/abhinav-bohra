@@ -30,9 +30,12 @@
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/c.svg" alt="C" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/cpp.svg" alt="C++" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;</p>
-	<h4> Frameworks</h4><p>
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/sql.svg" alt="SQL" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/uml.svg" alt="UML" width="25" height="25" />&nbsp;
+	
+	<h4> Frameworks</h4><p>
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;</p>	
