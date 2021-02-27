@@ -8,20 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interseted in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) :heart: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size=14 (Resume) <br><br><br><br>
-
-
-<!--Connect Section>
-<h3 align="right">Connect with me :</h3>
-<a href="https://linkedin.com/in/abhinav-bohra">
-	<img align="right" alt="Abhinav Bohra - LinkedIn" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
-</a>
-<a href="https://instagram.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Instagram" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
-</a>
-<a href="https://facebook.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Facebook" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
-</a-->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience in boring Arial font with font-size=14 (Resume) <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
@@ -53,13 +40,11 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
-</p>
-<br><br>
-<!--Trivia Section-->
+</p><br>
+<!--Connect Section-->
 <hr>
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i>
-
 <p align="center">
 	<a href="https://linkedin.com/in/abhinav-bohra">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
@@ -70,7 +55,7 @@
 	<a href="https://facebook.com/abhinavbohra01">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
 	</a>
-
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </p><br><br>
+
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
