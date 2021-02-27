@@ -26,10 +26,10 @@
 <!--Skills Section-->
 ## My Tech Stack
 <p align="left">
-	<h6> Programming Lanauges</h6>
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />
+	<h6> Programming Lanauges</h6><p>
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;</p>
 </p>
 
 <!--Trivia Section-->
