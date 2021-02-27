@@ -34,7 +34,9 @@
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/mysql.svg" alt="SQL" width="25" height="25" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/git.svg" alt="Git" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/uml.svg" alt="UML" width="25" height="25" />&nbsp;</p>	
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/uml.svg" alt="UML" width="25" height="25" />&nbsp;</p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/html.svg" alt="HTML" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/css.svg" alt="CSS" width="25" height="25" />&nbsp;
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="25" height="25" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="25" height="25" />&nbsp;
