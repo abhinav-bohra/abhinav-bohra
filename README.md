@@ -28,12 +28,9 @@
   <img align="right" alt="Chiraag Kakar - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 
-<p align="right">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
-</p>
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px" align="right"><br>
 ## Tools
 
-<p align="left">
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/react.svg" alt="react" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/angular.svg" alt="angular-js" width="25" height="25" />
 <img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/svelte.svg" alt="svelte" width="25" height="25" />
