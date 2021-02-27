@@ -62,13 +62,13 @@
 
 <p align="center">
 	<a href="https://linkedin.com/in/abhinav-bohra">
-		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
 	<a href="https://instagram.com/abhinavbohra01">
-		<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
 	</a>
 	<a href="https://facebook.com/abhinavbohra01">
-		<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
 	</a>
 
 </p>
