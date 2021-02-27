@@ -26,7 +26,14 @@
 <!--Skills Section-->
 ## My Tech Stack
 <p align="left">
-	<h6> Programming Lanauges</h6><p>
+	<h4> Programming Lanauges</h4><p>
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;</p>
+	<h4> Framwroks</h4><p>
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="25" height="25" />&nbsp;</p>
