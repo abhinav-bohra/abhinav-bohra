@@ -8,7 +8,7 @@
 - 🌱 I'm interseted in the intersection Artificial Intelligence & Software Development.
 -  When not coding, I like to make EDM 
 -  If you are a Manchester United fan, we are already friends. GGMU :)
--  Here's my previous experiences in boring Arial font with font-size =14 ;))
+-  Here's a brief list of my previous work experiences (Resume) in boring Arial font with font-size =14
 
 
 <!--Connect Section-->
