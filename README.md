@@ -36,7 +36,8 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;</p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
@@ -46,11 +47,12 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;</p>
 	<h4>Software Packages</h4><p>
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="python" width="40" height="40" />&nbsp;</p>
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/office.svg" alt="Office" width="40" height="40" />&nbsp;
+	
+	</p>
 </p>
 
 <!--Trivia Section-->
