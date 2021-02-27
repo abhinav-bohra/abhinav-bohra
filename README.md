@@ -45,8 +45,10 @@
 <hr>
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
+<p align="center">
 	<a href="https://linkedin.com/in/abhinav-bohra">
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
 	<a href="mailto:abhinavbohra01@gmail.com">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/email.svg"/>
