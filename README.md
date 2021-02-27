@@ -49,8 +49,8 @@
 	<a href="https://linkedin.com/in/abhinav-bohra">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
-	<a href="https://facebook.com/abhinavbohra01">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
+	<a href="mailto:abhinavbohra01@gmail.com">
+		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/email.svg"/>
 	</a>
 	<a href="https://instagram.com/abhinavbohra01">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
