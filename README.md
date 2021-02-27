@@ -44,7 +44,7 @@
 <!--Connect Section-->
 <hr>
 <p align="center">
-<i>Let's connect and chat! Open to anything under the sun.</i>
+<i>Let's connect and chat! Open to anything under the sun.</i><br>
 	<a href="https://linkedin.com/in/abhinav-bohra">
 		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
