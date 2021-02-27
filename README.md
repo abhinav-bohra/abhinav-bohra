@@ -7,7 +7,7 @@
 - I’m a third year undergrad at IIT Kharagpur studying Computer Science & Engineering.
 - I'm interseted in the intersection of the fields of Artificial Intelligence & Software Development.
 - When not coding, I like to make EDM 
-- If you are a Manchester United fan, we are already friends. GGMU :)
+- <img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;If you are a Manchester United fan, we are already friends. GGMU :)
 - Here's more about my previous work experiences in boring Arial font with font-size=14 (Resume) 
 
 
