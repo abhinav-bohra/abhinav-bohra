@@ -38,11 +38,11 @@
 	<h4> Frameworks</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="25" height="25" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Scikit Learn" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="TensorFlow" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Keras" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Numpy" width="25" height="25" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/python.svg" alt="Pandas" width="25" height="25" />&nbsp;</p>	
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg.svg" alt="TensorFlow" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="25" height="25" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="25" height="25" />&nbsp;</p>	
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/java.svg" alt="java" width="25" height="25" />&nbsp;
 	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/master/icons/javascript.svg" alt="javascript" width="25" height="25" />&nbsp;
