@@ -58,21 +58,21 @@
 <!--Trivia Section-->
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+<i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/abhinav-bohra">
-	<img align="right" alt="Abhinav Bohra - LinkedIn" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
-</a>
-<a href="https://instagram.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Instagram" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
-</a>
-<a href="https://facebook.com/abhinavbohra01">
-	<img align="right" alt="Abhinav Bohra - Facebook" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
-</a>
+<p align="center">
+	<a href="https://linkedin.com/in/abhinav-bohra">
+		<img alt="Abhinav Bohra - LinkedIn" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
+	</a>
+	<a href="https://instagram.com/abhinavbohra01">
+		<img alt="Abhinav Bohra - Instagram" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
+	</a>
+	<a href="https://facebook.com/abhinavbohra01">
+		<img alt="Abhinav Bohra - Facebook" width="22px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
+	</a>
 
-  </p>
+</p>
+
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 
-<br/><br/><br/><br/>
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
