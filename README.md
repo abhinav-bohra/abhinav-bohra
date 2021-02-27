@@ -6,6 +6,10 @@
 
 - 🔭 I’m a third year CSE undergrad at IIT Kharagpur.
 - 🌱 My interests are Machine Learning, Deep Learning, NLP and Software Development
+- &nbsp;
+- &nbsp;
+- &nbsp;
+- &nbsp;
 
 <!--Connect Section-->
 <h3 align="right">Connect with me :</h3>
@@ -18,6 +22,7 @@
 <a href="https://facebook.com/abhinavbohra01">
 	<img align="right" alt="Abhinav Bohra - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+
 <!--Skills Section-->
 ## My Tech Stack
 <p align="left">
