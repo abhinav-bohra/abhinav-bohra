@@ -64,6 +64,6 @@
 </p><br><br>
 <!-- Profile Views -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" /></p>
 
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
