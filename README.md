@@ -62,5 +62,8 @@
 	</a>
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </p><br><br>
+<!-- Profile Views -->
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" /></p>
 
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
