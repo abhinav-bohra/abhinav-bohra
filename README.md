@@ -30,6 +30,7 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/pyspark.png" alt="PyTorch" width="110" height="35" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
@@ -39,6 +40,7 @@
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/zeppelin.png" alt="Jupyter" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/netbeans.svg" alt="Netbeans" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
@@ -53,6 +55,9 @@
 	<a href="https://linkedin.com/in/abhinav-bohra">
 		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
 	</a>
+	<a href="https://scholar.google.com/citations?user=F51Ct9oAAAAJ&hl=en&oi=ao">
+		<img alt="Abhinav Bohra - Google Scholar" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/google_scholar.svg"/>
+	</a>
 	<a href="mailto:abhinavbohra01@gmail.com">
 		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/email.svg"/>
 	</a>
@@ -64,8 +69,9 @@
 	</a>
 <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" />
 </p><br><br>
+
 <!-- Profile Views -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=0px/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=5px/></p>
 
 **[Visit my website &rarr;](https://abhinavbohra.technology/)**
