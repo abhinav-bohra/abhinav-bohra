@@ -1,11 +1,8 @@
-
-![Intro](./intro.GIF)
 <p align="center"><img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/header.png" width="1380px" height="180px"></p>
 
 <h2 align="left">Heya 👋, I'm Abhinav</h2>
 <!--Intro Section-->
-![Intro](./intro.GIF)
-<!-- {:height="30%" align="right"} -->
+<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/intro.gif" width="30%" align="right">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Dual Degree Computer Science & Engineering graduate from IIT Kharagpur.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
