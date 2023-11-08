@@ -35,7 +35,8 @@
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/scikit-learn.svg" alt="Scikit Learn" width="60" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
-	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p>
+<!-- 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p> -->
+	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/flutter.svg" alt="Flutter" width="40" height="40" />&nbsp;</p>
 	<h4>Software Packages</h4><p>
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/gitlab.svg" alt="GitLab" width="40" height="40" />&nbsp;
 	<img src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
@@ -74,4 +75,4 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=21px/></p>
 
-**[Visit my website &rarr;](https://abhinavbohra.technology/)**
+**[Visit my website &rarr;](https://abhinav-bohra.github.io/)**
